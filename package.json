@@ -1,0 +1,26 @@
+{
+  "name": "halftale",
+  "version": "1.0.0",
+  "description": "nodejs jwt authentication",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alphasaurs/Halftale.git"
+  },
+  "author": "Alphasaurs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alphasaurs/Halftale/issues"
+  },
+  "homepage": "https://github.com/Alphasaurs/Halftale#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
